@@ -1,7 +1,0 @@
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&sni=www.bing.com#%E2%9D%93Other_4%7C2.9MB%2Fs
-hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=www.bing.com#%E2%9D%93Other_7%7C2.0MB%2Fs
-hysteria2://4fUg3KH31LpMhko6o0Ka9Q@198.46.146.118:36720?insecure=1&sni=bing.com#%E2%9D%93Other_11%7C2.9MB%2Fs
-hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=bing.com#%F0%9F%87%B0%F0%9F%87%B7KR_1%7C4.2MB%2Fs
-hysteria2://1r0d8slwbpg1iebe@129.153.77.162:8443?insecure=1&obfs=salamander&obfs-password=f7yrrbc9h6b1krnk&sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8US_7%7C1.5MB%2Fs
-hysteria2://7c9c7f52-5a8c-43e0-b6d1-c8552289f230@167.148.201.99:443?sni=us.mi11o4ka.com#%E2%9D%93Other_17%7C2.2MB%2Fs
-hysteria2://2a0fc918-9c61-451b-a9ad-e8f796e70f52@13.143.239.127:443?sni=nl1.obxodvpn.us#%E2%9D%93Other_20%7C2.1MB%2Fs
