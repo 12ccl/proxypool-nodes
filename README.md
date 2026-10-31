@@ -2,19 +2,19 @@
 
 从 GitHub 公开仓库收割的代理节点清单，自动生成。
 
-- 生成时间：2026-10-31 13:54:54 +0800
-- 节点总数：**36**（已去重）
+- 生成时间：2026-10-31 15:36:43 +0800
+- 节点总数：**71**（已去重）
 - 来源仓库：见 `harvest_report.csv` 的统计
 
 ## 协议分布
 
 | 协议 | 数量 |
 |---|---|
-| vless | 12 |
-| trojan | 9 |
-| ss | 8 |
-| hysteria2 | 5 |
-| vmess | 2 |
+| vless | 35 |
+| trojan | 15 |
+| ss | 13 |
+| hysteria2 | 7 |
+| vmess | 1 |
 
 ## 文件说明
 
@@ -40,13 +40,13 @@ https://raw.githubusercontent.com/12ccl/proxypool-nodes/main/sub.txt
 
 | 仓库 | 文件 | 节点数 |
 |---|---|---|
-| 3000S-HTTP/sNSub | `output/configs_vless_vmess.txt` | 24,390 |
+| 3000S-HTTP/sNSub | `output/configs_vless_vmess.txt` | 24,287 |
 | Nexuspt753/GitHub-Sub-Scanner | `subs/all.b64.txt` | 20,359 |
-| twj0/subseek | `data/sub_github.txt` | 19,271 |
 | twj0/subseek | `data/sub_github_base64.txt` | 19,271 |
-| myominn062-svg/mk-studio-vpn-service | `subscription-trojan.txt` | 17,377 |
-| M-Mashreghi/Free-V2ray-Collector | `All_shuffled_config.txt` | 16,637 |
+| twj0/subseek | `data/sub_github.txt` | 19,271 |
+| myominn062-svg/mk-studio-vpn-service | `subscription-trojan.txt` | 17,572 |
 | M-Mashreghi/Free-V2ray-Collector | `All_Configs_Sub.txt` | 16,637 |
+| M-Mashreghi/Free-V2ray-Collector | `All_shuffled_config.txt` | 16,637 |
 | Nexuspt753/GitHub-Sub-Scanner | `subs/all.txt` | 16,429 |
 | funykaly/V2ray-Configs-Tester | `configs/all_scraped.txt` | 15,800 |
 | Twitr/Free-V2ray-Collector | `All_Configs_Sub.txt` | 15,701 |
