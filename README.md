@@ -2,8 +2,8 @@
 
 从 GitHub 公开仓库收割的代理节点清单，自动生成。
 
-- 生成时间：2026-10-31 08:37:40 +0800
-- 节点总数：**89**（已去重）
+- 生成时间：2026-10-31 09:38:34 +0800
+- 节点总数：**94**（已去重）
 - 来源仓库：见 `harvest_report.csv` 的统计
 
 ## 协议分布
@@ -12,9 +12,9 @@
 |---|---|
 | vless | 44 |
 | ss | 17 |
-| trojan | 15 |
-| hysteria2 | 9 |
-| vmess | 4 |
+| trojan | 16 |
+| hysteria2 | 11 |
+| vmess | 6 |
 
 ## 文件说明
 
@@ -42,8 +42,8 @@ https://raw.githubusercontent.com/12ccl/proxypool-nodes/main/sub.txt
 |---|---|---|
 | 3000S-HTTP/sNSub | `output/configs_vless_vmess.txt` | 24,390 |
 | Nexuspt753/GitHub-Sub-Scanner | `subs/all.b64.txt` | 20,359 |
-| twj0/subseek | `data/sub_github_base64.txt` | 19,271 |
 | twj0/subseek | `data/sub_github.txt` | 19,271 |
+| twj0/subseek | `data/sub_github_base64.txt` | 19,271 |
 | myominn062-svg/mk-studio-vpn-service | `subscription-trojan.txt` | 17,377 |
 | M-Mashreghi/Free-V2ray-Collector | `All_Configs_Sub.txt` | 16,637 |
 | M-Mashreghi/Free-V2ray-Collector | `All_shuffled_config.txt` | 16,637 |
