@@ -1,9 +1,3 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5JP_1%7C3.0MB%2Fs
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.151.182.253:8080#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.2MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU18yfDIuMk1CL3MiLCJhZGQiOiI4NC4xNy40MS4yIiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@95.215.201.18:19999#%F0%9F%87%BA%F0%9F%87%B8US_3%7C1.3MB%2Fs
-vless://a6be8b6d-3033-4a99-b9bd-75e2ab12cfd0@31.76.91.238:443?security=reality&type=tcp&packetEncoding=xudp&sni=japan.selfsteal.com&fp=chrome&flow=xtls-rprx-vision&sid=f336420d3cd15950&pbk=OnFi4-dm6Pf7o5CboFwfhbIA539vVtsd7ZYlPnWJVxo&encryption=none#%F0%9F%87%AF%F0%9F%87%B5JP_2%7C3.8MB%2Fs
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.16.231.20:2082?security=none&type=ws&path=%2F&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.2MB%2Fs
-vless://d342d11e-d224-4463-b982-532309285094@104.18.8.74:443?security=tls&type=ws&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560fp%3Dchrome&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C1.2MB%2Fs
-vless://d342d11e-d224-4463-b982-532309285094@172.64.153.66:443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_2%7C1.2MB%2Fs
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6xTR18zfDEuNE1CL3MiLCJhZGQiOiJ3am9mSHNRdEV1RXl3eEVxLnYuM2Rucy52aXAiLCJwb3J0IjoiNDQzIiwiaWQiOiJhOWY0ZGU4Yi02OGYxLTQ0YjYtYjZhMi0xZGI2MDk0MDUwM2EiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInNuaSI6Indqb2ZIc1F0RXVFeXd4RXEudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0Ijoid2pvZkhzUXRFdUV5d3hFcS52LjNkbnMudmlwIn0=
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.54.250:8080#%F0%9F%87%BA%F0%9F%87%B8US_1%7C1.0MB%2Fs
+ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ==@195.238.126.20:9086#%E2%9D%93Other_1%7C1.4MB%2Fs
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.43:2082?security=none&type=ws&path=%2F&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net#%F0%9F%87%AD%F0%9F%87%B0HK_1%7C2.6MB%2Fs
