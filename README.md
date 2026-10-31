@@ -14,19 +14,21 @@
 
 ## 在线工具
 
-**订阅转换工具**（纯前端，数据不出浏览器）：
+**订阅转换工具**（纯前端，数据不出浏览器，支持 Clash / Mihomo / sing-box 转换、加分流规则、重命名节点）：
 
-```
-https://12ccl.github.io/proxypool-nodes/
-```
+| 入口 | 地址 | 说明 |
+|---|---|---|
+| 主入口 | `https://clash-sub-converter-19641.app.workbuddy.host/?sharecode=AETYY3P2LK` | 国内可直连 |
+| GitHub Pages | `https://12ccl.github.io/proxypool-nodes/` | 需要能访问 github.io |
 
-支持把 `sub.txt` 转成 Clash / Mihomo / sing-box 等格式，可加分流规则、重命名节点。
+> `github.io` 在国内多数网络下无法访问（DNS 污染），优先用主入口。
+> 也可以直接下载仓库里的 `index.html` 用浏览器打开，纯离线可用。
 
 ## 当前数据
 
 | 项目 | 数值 |
 |---|---|
-| 更新时间 | 2026-10-31 16:24:24 +0800 |
+| 更新时间 | 2026-10-31 16:33:24 +0800 |
 | 可用节点 | **71** |
 | 本轮测试 | 66,551 个候选 → 71 个达标 |
 | 数据来源 | GitHub 搜索 `v2ray free` 前 675 个仓库 |
