@@ -28,9 +28,9 @@
 
 | 项目 | 数值 |
 |---|---|
-| 更新时间 | 2026-11-01 02:42:33 +0800 |
+| 更新时间 | 2026-11-01 18:42:44 +0800 |
 | 可用节点 | **3** |
-| 本轮测试 | 344 个候选 → 3 个达标 |
+| 本轮测试 | 524 个候选 → 3 个达标 |
 | 数据来源 | GitHub 搜索 `v2ray free` 前 675 个仓库 |
 
 ## 筛选标准
@@ -52,7 +52,7 @@
 
 | 连续通过轮数 | 节点数 |
 |---|---|
-| ≥ 3 轮 | 1 |
+| ≥ 3 轮 | 3 |
 | 2 轮 | 0 |
 
 > 这些节点来自互联网公开的公益分享，**原始存活率约 0.1%**。
@@ -84,11 +84,11 @@
 |---|---|---|
 | 3000S-HTTP/sNSub | `output/configs_vless_vmess.txt` | 24,079 |
 | Nexuspt753/GitHub-Sub-Scanner | `subs/all.b64.txt` | 20,359 |
-| myominn062-svg/mk-studio-vpn-service | `subscription-trojan.txt` | 18,234 |
+| myominn062-svg/mk-studio-vpn-service | `subscription-trojan.txt` | 18,412 |
 | M-Mashreghi/Free-V2ray-Collector | `All_Configs_Sub.txt` | 16,637 |
 | M-Mashreghi/Free-V2ray-Collector | `All_shuffled_config.txt` | 16,637 |
-| Nexuspt753/GitHub-Sub-Scanner | `subs/all.txt` | 16,228 |
+| Nexuspt753/GitHub-Sub-Scanner | `subs/all.txt` | 15,943 |
 | funykaly/V2ray-Configs-Tester | `configs/all_scraped.txt` | 15,800 |
 | Twitr/Free-V2ray-Collector | `All_Configs_Sub.txt` | 15,701 |
-| myominn062-svg/mk-studio-vpn-service | `subscription-ss.txt` | 15,472 |
-| longlon/v2ray-config | `All_Configs_Sub.txt` | 13,064 |
+| myominn062-svg/mk-studio-vpn-service | `subscription-ss.txt` | 15,474 |
+| longlon/v2ray-config | `All_Configs_base64_Sub.txt` | 13,165 |
