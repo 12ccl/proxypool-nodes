@@ -28,9 +28,9 @@
 
 | 项目 | 数值 |
 |---|---|
-| 更新时间 | 2026-11-03 02:42:33 +0800 |
-| 可用节点 | **1** |
-| 本轮测试 | 218 个候选 → 1 个达标 |
+| 更新时间 | 2026-11-03 04:42:33 +0800 |
+| 可用节点 | **7** |
+| 本轮测试 | 169 个候选 → 7 个达标 |
 | 数据来源 | GitHub 搜索 `v2ray free` 前 675 个仓库 |
 
 ## 筛选标准
@@ -44,13 +44,15 @@
 
 | 协议 | 数量 |
 |---|---|
-| trojan | 1 |
+| vless | 3 |
+| trojan | 2 |
+| hysteria2 | 2 |
 
 ## 稳定性
 
 | 连续通过轮数 | 节点数 |
 |---|---|
-| ≥ 3 轮 | 1 |
+| ≥ 3 轮 | 2 |
 | 2 轮 | 0 |
 
 > 这些节点来自互联网公开的公益分享，**原始存活率约 0.1%**。
@@ -89,4 +91,4 @@
 | funykaly/V2ray-Configs-Tester | `configs/all_scraped.txt` | 15,800 |
 | Twitr/Free-V2ray-Collector | `All_Configs_Sub.txt` | 15,701 |
 | myominn062-svg/mk-studio-vpn-service | `subscription-ss.txt` | 15,536 |
-| longlon/v2ray-config | `All_Configs_Sub.txt` | 13,449 |
+| longlon/v2ray-config | `All_Configs_Sub.txt` | 13,542 |
