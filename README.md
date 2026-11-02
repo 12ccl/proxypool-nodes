@@ -28,9 +28,9 @@
 
 | 项目 | 数值 |
 |---|---|
-| 更新时间 | 2026-11-02 04:42:33 +0800 |
-| 可用节点 | **6** |
-| 本轮测试 | 574 个候选 → 6 个达标 |
+| 更新时间 | 2026-11-02 12:43:13 +0800 |
+| 可用节点 | **3** |
+| 本轮测试 | 630 个候选 → 3 个达标 |
 | 数据来源 | GitHub 搜索 `v2ray free` 前 675 个仓库 |
 
 ## 筛选标准
@@ -44,16 +44,14 @@
 
 | 协议 | 数量 |
 |---|---|
-| trojan | 4 |
-| vless | 1 |
-| ss | 1 |
+| trojan | 3 |
 
 ## 稳定性
 
 | 连续通过轮数 | 节点数 |
 |---|---|
 | ≥ 3 轮 | 0 |
-| 2 轮 | 0 |
+| 2 轮 | 1 |
 
 > 这些节点来自互联网公开的公益分享，**原始存活率约 0.1%**。
 > 本仓库只保留通过测速的那部分，但仍然随时可能失效。
@@ -82,13 +80,13 @@
 
 | 仓库 | 文件 | 节点数 |
 |---|---|---|
-| 3000S-HTTP/sNSub | `output/configs_vless_vmess.txt` | 24,480 |
+| 3000S-HTTP/sNSub | `output/configs_vless_vmess.txt` | 24,555 |
 | Nexuspt753/GitHub-Sub-Scanner | `subs/all.b64.txt` | 20,359 |
-| myominn062-svg/mk-studio-vpn-service | `subscription-trojan.txt` | 18,770 |
-| Nexuspt753/GitHub-Sub-Scanner | `subs/all.txt` | 16,689 |
-| M-Mashreghi/Free-V2ray-Collector | `All_Configs_Sub.txt` | 16,637 |
+| myominn062-svg/mk-studio-vpn-service | `subscription-trojan.txt` | 18,871 |
 | M-Mashreghi/Free-V2ray-Collector | `All_shuffled_config.txt` | 16,637 |
+| M-Mashreghi/Free-V2ray-Collector | `All_Configs_Sub.txt` | 16,637 |
 | Twitr/Free-V2ray-Collector | `All_Configs_Sub.txt` | 15,701 |
-| myominn062-svg/mk-studio-vpn-service | `subscription-ss.txt` | 15,510 |
-| longlon/v2ray-config | `All_Configs_Sub.txt` | 13,383 |
-| longlon/v2ray-config | `All_Configs_base64_Sub.txt` | 13,383 |
+| myominn062-svg/mk-studio-vpn-service | `subscription-ss.txt` | 15,560 |
+| longlon/v2ray-config | `All_Configs_Sub.txt` | 13,436 |
+| longlon/v2ray-config | `All_Configs_base64_Sub.txt` | 13,436 |
+| 0xRadikal/Free-v2ray-Configs | `all/configs_base64.txt` | 12,107 |
