@@ -1,1 +1,1 @@
-trojan://ac6VNrnVracd@scholastic.com:2053?sni=rayaN22-bKpvo0Kr-t3.raYan-22.workeRS.deV&type=ws&path=%2F%3Fed%3D2560&fp=chrome&pcs=8675113BCDC9B630157D354E1FC64EA9C919201301E9A8F3DA2E4D1E1E9C942A#%F0%9F%87%AD%F0%9F%87%B0HK_2%7C1.1MB%2Fs
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?sni=exploredigitaljobplatformandfindonlinework.com&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%ACSG_1%7C1.3MB%2Fs
